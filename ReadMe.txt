@@ -1,2 +1,2 @@
-Hallo Welt
-Wie geht es dir
+Learning to use git are:
+Andreas Vogt
